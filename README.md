@@ -1,2 +1,2 @@
 # experiment-1
-description of eperiment-1
+modified description of experiment-1
